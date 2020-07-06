@@ -2,5 +2,5 @@
 /dist/
 /build/
 /.eggs/
-/typecheck_m00ga.egg-info/
+/typeguarder.egg-info/
 /.idea/
