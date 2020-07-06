@@ -1,0 +1,6 @@
+/venv/
+/dist/
+/build/
+/.eggs/
+/typecheck_m00ga.egg-info/
+/.idea/
